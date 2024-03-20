@@ -25,7 +25,6 @@ the studio “Eon Productions”, and the rating “PG­13”
 - To create a class to calculate the UberPrice.
 # TASK 4
 - To create a class named "Circle" to convert the UML diagram to typescript class.
-
-In the above activities and output screenshot are stored. Kindly evaluate my submitted Task. 
+Kindly evaluate my submitted Task. 
 
 Thank You..
